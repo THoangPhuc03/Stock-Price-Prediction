@@ -1,6 +1,8 @@
 # Stock Price Prediction: Opening Price Forecasting
 
-This repository contains a Python-based project focused on predicting stock opening prices using historical stock data and macroeconomic indicators. The project experiments with various machine learning and deep learning techniques to model the data, evaluates their performance, and visualizes the results.
+This repository contains a Python-based project focused on predicting stock opening prices using historical stock data and macroeconomic indicators. The project experiments with various machine learning and deep learning techniques to model the data, evaluates their performance, and visualizes the results. 
+
+You can see my [python code here](https://github.com/THoangPhuc03/Stock-Price-Prediction/blob/main/Stock_Price_Prediction.ipynb)
 
 ## Problem Statement
 
